@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  border: 1px inset rgb(154, 154, 154);
+  cursor: pointer;
+}
+.white {
+  background-color: white;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
+table {
+  align-items: center;
+  margin: 0px auto;
+}
